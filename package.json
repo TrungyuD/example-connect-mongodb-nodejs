@@ -1,0 +1,22 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "node-03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "camp"
+  ],
+  "author": "duy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5"
+  }
+}
